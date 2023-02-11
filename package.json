@@ -1,0 +1,27 @@
+{
+  "name": "random-str-mesg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlozanoc82/random-str-mesg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dlozanoc82/random-str-mesg/issues"
+  },
+  "homepage": "https://github.com/dlozanoc82/random-str-mesg#readme",
+  "bin": {
+    "random-str-mesg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
